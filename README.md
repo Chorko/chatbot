@@ -29,9 +29,6 @@ This chatbot holds immense potential to contribute to the growth and success of 
 - **Machine Learning Concepts**: Employs supervised learning, unsupervised learning, and reinforcement learning techniques to enhance chatbot understanding and responsiveness.
 - **NLP Voice Tools**: Integrates speech recognition and natural language understanding (NLU) systems to process spoken language input effectively.
 
-### Block Diagram
-
-(*Insert Block Diagram Here*)
 
 ### Conclusion
 
